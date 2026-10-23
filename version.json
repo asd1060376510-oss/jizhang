@@ -1,0 +1,6 @@
+{
+  "versionCode": 17,
+  "versionName": "0.6.1",
+  "apkUrl": "https://api.github.com/repos/asd1060376510-oss/jizhang/git/blobs/fc9169dd3b6636fc5188a35c3c183cc5c15db07b",
+  "notes": "更新源改走 api.github.com（国内可达），修复检查更新失败"
+}
